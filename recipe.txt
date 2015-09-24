@@ -1,2 +1,7 @@
 cherry
 pie
+hello
+world
+*hello
+*world
+
